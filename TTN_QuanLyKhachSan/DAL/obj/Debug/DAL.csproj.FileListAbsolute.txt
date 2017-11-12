@@ -1,0 +1,21 @@
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\DAL\bin\Debug\Entity.dll
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\DAL\bin\Debug\Entity.pdb
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\bin\Debug\Entity.dll
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\bin\Debug\Entity.pdb
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.pdb
+C:\Users\Hit\Desktop\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\bin\Debug\DAL.dll
+C:\Users\Hit\Desktop\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+C:\Users\Hit\Desktop\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\bin\Debug\Entity.dll
+C:\Users\Hit\Desktop\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\bin\Debug\Entity.pdb
+C:\Users\Hit\Desktop\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hit\Desktop\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.dll
+C:\Users\Hit\Desktop\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\DAL\obj\Debug\DAL.pdb

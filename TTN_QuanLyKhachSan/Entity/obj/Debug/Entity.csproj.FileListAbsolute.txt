@@ -1,0 +1,10 @@
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.dll
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.dll
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.dll
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.dll
+C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
