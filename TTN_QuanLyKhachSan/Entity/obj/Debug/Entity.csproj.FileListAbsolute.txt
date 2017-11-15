@@ -8,3 +8,8 @@ C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_Q
 C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
 C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.dll
 C:\Users\Hit\Downloads\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
+E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.dll
+E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
+E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.dll
+E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.pdb

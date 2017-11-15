@@ -15,7 +15,7 @@ namespace DAL
         private void MoKetNoi()
         {
             if (KetNoiData.connect == null)
-                KetNoiData.connect = new SqlConnection(@"Data Source=DESKTOP-JMBE5FO\SQLEXPRESS;Initial Catalog=TTN_QuanLyKhachSan;Integrated Security=True");
+                KetNoiData.connect = new SqlConnection(@"Data Source=DESKTOP-22BQN4S;Initial Catalog=TTN_QuanLyKhachSan;Integrated Security=True");
             if (KetNoiData.connect.State != ConnectionState.Open)
                 KetNoiData.connect.Open();
         }
